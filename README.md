@@ -1,2 +1,2 @@
 # CursoCSharpPlatzi
-Codigo del Curso de Platzi de C#
+Codigo del Curso de // TODO de C#
